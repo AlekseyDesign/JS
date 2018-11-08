@@ -3,5 +3,4 @@
 ![](https://javascript30.com/images/JS3-social-share.png)
 
  
-Course was taken from site [https://JavaScript30.com](https://JavaScript30.com)
-
+Course was taken from site [https://JavaScript30.com]
